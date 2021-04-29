@@ -1,6 +1,6 @@
-wget https://ghproxy.com/https://raw.githubusercontent.com/afwfv/dd/main/v4mb.tar.gz
-tar -zxvf v4mb.tar.gz
-rm -f v4mb.tar.gz
+wget https://ghproxy.com/https://raw.githubusercontent.com/qhlai/dd/edit/main/v4mb.zip
+tar -zxvf v4mb.zip
+rm -f v4mb.zip
 mv v4mb/panel panel
 mv v4mb/config/diy.sh config/diy.sh
 mv v4mb/config/auth.json config/auth.json
