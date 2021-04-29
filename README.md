@@ -82,7 +82,6 @@ docker run -dit \
    -v /jd/log:/jd/log \
    -v /jd/scripts:/jd/scripts \
    -v /jd/own:/jd/own \
-   -v /jd/panel:/jd/panel \
    -p 5678:5678 \
    -e ENABLE_HANGUP=true \
    -e ENABLE_WEB_PANEL=true \
