@@ -153,7 +153,7 @@ docker exec -it jd bash jup
 docker exec -it jd bash
 ```
 ```
-wget -q https://ghproxy.com/https://raw.githubusercontent.com/afwfv/dd/main/v4mb.sh -O v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
+awget -q https://ghproxy.com/https://raw.githubusercontent.com/qhlai/dd/main/v4mb.sh -O v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
 ```
 #重启手动运行面板
 
